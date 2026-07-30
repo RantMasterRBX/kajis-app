@@ -17,11 +17,11 @@
     },
     "android": {
       "package": "openandroid.kajithedwagon.kajizapp",
+      "edgeToEdgeEnabled": true,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-       "edgeToEdgeEnabled": true 
-      },
+        },
       "extras": {
         "eas": {
           "projectId": "d23c78da-596a-4dad-89db-8f5589d29133",
