@@ -16,6 +16,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "openandroid.kajithedwagon.kajizapp",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
