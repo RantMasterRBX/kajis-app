@@ -1,34 +1,24 @@
 {
   "expo": {
     "name": "kajis-app",
-    "slug": "snack-5701dc04-133c-4263-b332-5c9102c004fc",
+    "slug": "kajis-app",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "newArchEnabled": true,
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
     "android": {
       "package": "openandroid.kajithedwagon.kajizapp",
       "edgeToEdgeEnabled": true,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-        },
-      "extras": {
-        "eas": {
-          "projectId": "d23c78da-596a-4dad-89db-8f5589d29133",
-      },
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d23c78da-596a-4dad-89db-8f5589d29133"
+      }
+    },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "A simple, yet whimsicle first app!"
+    "description": "A simple, yet whimsical first app!"
   }
 }
