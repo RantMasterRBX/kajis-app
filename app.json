@@ -5,18 +5,12 @@
     "version": "1.0.1",
     "icon": "./assets/icon.png",
     "android": {
-      "package": "openandroid.kajithedwagon.kajizapp",
-      "edgeToEdgeEnabled": true,
-      }
+      "package": "openandroid.kajithedwagon.kajizapp"
     },
     "extra": {
       "eas": {
         "projectId": "d23c78da-596a-4dad-89db-8f5589d29133"
       }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }, 
-    "description": "A simple, yet whimsical first app!"
+    }
   }
 }
