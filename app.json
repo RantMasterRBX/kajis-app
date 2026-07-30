@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "kajis-app",
-    "slug": "kajis-app",
+    "slug": "kaji",
     "version": "1.0.0",
     "android": {
       "package": "openandroid.kajithedwagon.kajizapp",
