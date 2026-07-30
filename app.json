@@ -2,7 +2,7 @@
   "expo": {
     "name": "kajis-app",
     "slug": "kaji",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icon": "./assets/icon.png",
     "android": {
       "package": "openandroid.kajithedwagon.kajizapp",
